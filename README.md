@@ -1,4 +1,4 @@
-# Job Offers Data Pipeline
+# Job Offers 
 
 Pipeline de données complet sur 123 849 offres d'emploi LinkedIn (2023-2024) : nettoyage, stockage, modèle de machine learning et tableau de bord.
 
